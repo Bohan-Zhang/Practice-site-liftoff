@@ -1,9 +1,12 @@
 img {
     width: 200px;
 }
+title{
+    width: 500px;
+}
 body{
+    background-image: url("https://i.pinimg.com/originals/89/8e/26/898e26ea2df2b42fa29441a1ffb493ff.jpg");
     text-align: center;
     font-family: arial;
-    background: azure;
-    color: purple;
+    color:  rgb(255, 0, 255);
 }
